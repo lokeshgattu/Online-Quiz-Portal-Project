@@ -1,0 +1,10 @@
+.quizquestionspage{
+    background-image: url("https://wallpapers.com/images/hd/blank-blurry-teal-background-b2d33t600is54eyr.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width:100vw;
+}
